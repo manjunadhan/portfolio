@@ -63,7 +63,7 @@ website of my project
                     <!--Basic Info-->
                     <div class='col-md-4 col-sm-7 basic-info wow fadeInUp animated' style='visibility: visible;'>
                         <!-- About Name -->
-                        <h1 class='person-title'>Vishal Marati</h1>
+                        <h1 class='person-title'>MANJUNADHAN</h1>
                         <!-- About Bio -->
                         <p class='bio-text'>i am a passionate full-stack web developer ,creative problem-solver who enjoys turning complex ideas into functional, user-friendly web applications.
 
